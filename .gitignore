@@ -15,10 +15,10 @@
 /.eslintcache
 /connect.lock
 /coverage/
-/libpeerconnection.log
-/npm-debug.log*
-/testem.log
-/yarn-error.log
+*.log
+*.temp
+*.sublime-workspace
+.DS_Store
 
 # ember-try
 /.node_modules.ember-try/

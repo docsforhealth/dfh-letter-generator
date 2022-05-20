@@ -1,7 +1,6 @@
-# dfh-letter-generator
+# Docs for Health Letter Generator
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Interface for the [Docs for Health WordPress Letter GeneratorPlugin](https://github.com/docsforhealth/dfh-wordpress-letter-generator-plugin)
 
 ## Prerequisites
 
